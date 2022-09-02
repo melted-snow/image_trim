@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="opencv_test.cpp">
+    <ClCompile Include="image_trim.cpp">
       <Filter>ソース ファイル</Filter>
     </ClCompile>
   </ItemGroup>
